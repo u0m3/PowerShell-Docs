@@ -60,9 +60,9 @@
       }
     },
     {
-      "docset_name": "owerShell_PowerShell-docs_reference",
-      "build_source_folder": "owerShell_PowerShell-docs_reference",
-      "build_output_subfolder": "PowerShell/reference",
+      "docset_name": "PowerShell_PowerShell-docs_reference",
+      "build_source_folder": "reference",
+      "build_output_subfolder": "reference",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
